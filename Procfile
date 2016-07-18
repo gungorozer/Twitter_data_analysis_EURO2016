@@ -1,1 +1,1 @@
-web: gunicorn app:app
+web: gunicorn picture_01.py
